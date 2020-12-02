@@ -1,4 +1,7 @@
+# Importing general functions
 from django.contrib import admin
+
+# Importing internal functions
 from freshot.models import Atividade
 from freshot.models import Aula
 from freshot.models import Curso
